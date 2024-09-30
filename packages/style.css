@@ -1,11 +1,27 @@
+
+
 body{
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
+    background-color: darkslategray;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:blanchedalmond;
+    text-decoration: wavy;
 
+    
 }
 #output{
     margin-top: 10px;
     padding: 10px;
     border: 1px solid;
-    min-height: 100px;
+    border-radius: 25px;
+    min-height: 500px;
+
+}
+#startButton{
+    font-size: 20px;
+    margin-top: 25px;
+    
 }
